@@ -33,4 +33,4 @@ https://github.com/Haidyasser/Bank-System-using-file-processing/assets/99363484/
 
 ## Our Team
 - [Haidy Yasser](https://github.com/Haidyasser)
-- [Nourhan Wael]
+- [Nourhan Wael](https://github.com/Nourhan-Wael)
